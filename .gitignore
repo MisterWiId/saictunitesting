@@ -3,3 +3,8 @@
 ################################################################################
 
 /MapsOperations.test/.vs/MapsOperations.test/v16
+/MapsOperations.test/bin/Debug/netcoreapp3.1
+/MapsOperations.test/obj
+/MathOperationns.Lib/bin/Debug/netcoreapp3.1
+/MathOperationns.Lib/obj
+/sut/.vs/sut/v16
